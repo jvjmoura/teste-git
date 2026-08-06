@@ -5,3 +5,8 @@ if usuario == "João":
     print("Você é o João, você é dev")
 else:
     print("Você não é o João, você não é dev")
+
+print("joao")
+print("valério")
+print("moura")
+print("jr")
